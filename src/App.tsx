@@ -27,7 +27,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React + Chakra UI
+            Learn React + Chakra UI + Vite
           </a>
         </header>
       </div>
