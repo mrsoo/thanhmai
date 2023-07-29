@@ -3,7 +3,7 @@ const path = require('path');
 
 const app = express();
 
-const buildDir = path.join(__dirname, '../build');
+const buildDir = path.join(__dirname, '../dist');
 console.log('Using files in ' + buildDir);
 
 const subDir = '/';
